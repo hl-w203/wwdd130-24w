@@ -1,0 +1,23 @@
+body{
+    background-color: gray
+}
+.div{text-align: center;
+}
+.desk{
+    border: 20px solid black;
+    border-radius: 50%;
+    color: gray;
+    width: 20%;
+}
+.graphic{
+    border: 20px solid black;
+    border-radius: 50%;
+    color: gray;
+    width: 20%;
+}
+.person{
+    border: 20px solid black;
+    border-radius: 50%;
+    color: gray;
+    width: 20%;
+}
