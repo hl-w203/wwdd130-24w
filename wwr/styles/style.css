@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Single+Day&display=swap');
 .content section {
     max-width: 1600px;
     margin: 0 auto;
@@ -22,6 +23,7 @@ main section {
 }
 body {
     background-color: #EFF1ED;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
 }
 header {
     background-color: #a8b095;
