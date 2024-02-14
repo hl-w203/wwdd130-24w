@@ -1,0 +1,16 @@
+#first-paragraph {
+    Color: #AA336A;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+}
+#second-paragraph {
+    Color: pink;
+    font-size: 20px;
+    font-weight: bold;
+}
+#other-paragraph {
+    color: aqua;
+    font-size: smaller;
+    font-style:initial;
+}

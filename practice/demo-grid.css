@@ -1,0 +1,23 @@
+.content {
+    display: grid;
+    /* grid-template-columns: 100px 4fr 1fr; */
+    /* grid-template-rows: 100px 100px 100px 100px; *
+    /*  */
+    grid-template-columns: 100px 4fr 1fr;
+}
+.content section {
+    width: 100px;
+    height: 100px;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
+.blue {
+    background-color: blue;
+}
